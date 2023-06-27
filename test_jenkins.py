@@ -4,5 +4,5 @@ app = FastAPI(
 )
 @app.post("/detection")
 def test():
-    return {"test": "hahaha11111111ffffff"}
+    return {"test2222": "hahaha11111111ffffff"}
 
